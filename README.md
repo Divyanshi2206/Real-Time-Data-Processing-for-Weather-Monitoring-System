@@ -48,11 +48,11 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
    npm install
    
    ```
-   
+3. **run live server
+
+   ```bash
+   npm install http-server -g
+   http-server -p 8080**
+   ```
 
 
-## Running Tests
-
-You can add and run tests to ensure everything is working correctly.
-```
-created bt: santosh sahoo
