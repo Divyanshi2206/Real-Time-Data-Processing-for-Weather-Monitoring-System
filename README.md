@@ -49,12 +49,7 @@ This project is designed to retrieve weather data from the OpenWeatherMap API at
    
    ```
    
-3. **run live server
 
-   ```bash
-   npm install http-server -g
-   http-server -p 8080**
-   ```
 
 ## Running Tests
 
